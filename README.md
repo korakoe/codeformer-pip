@@ -9,7 +9,7 @@ This repo is a PyTorch implementation of the paper [CodeFormer](https://arxiv.or
 
 ### Installation
 ```bash
-pip install codeformer-pip
+pip install git+https://github.com/korakoe/codeformer-pip.git
 ```
 ### Usage
 ```python
